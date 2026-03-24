@@ -1,0 +1,5 @@
+= The Best Template for arc42 Hub
+
+This project has been migrated to GitLab.
+The new project URL is https://gitlab.com/obgftf/best-template-for-arc42/hub
+
